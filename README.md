@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Abraham Odeh</h1>
-<h3 align="center">A passionate Data Engineer | Data Architect | Data Warehouse Engineer</h3>
+<h3 align="center">I hold a PhD in Geology from Imperial College London where I looked at deepwater channel systems in deepwatwer environments example the Offshore Taranaki Basin and Central North Sea. I am also a passionate Data Engineer | Data Architect | Data Warehouse Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacabrahamodeh&label=Profile%20views&color=0e75b6&style=flat" alt="isaacabrahamodeh" /> </p>
 
